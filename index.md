@@ -7,7 +7,7 @@
       <p><b>邮箱：1102757555@qq.com</b></p>
       </td>
     <td width="25%">
-      <img src="/111.jpg" width="100%">      % 插入证件照代码
+      <img src="/111.jpg" width="100%">     
     </td>
     </td>
     
